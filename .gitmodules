@@ -1,0 +1,12 @@
+[submodule "md5"]
+	path = md5
+	url = git@github.com:sieveLau/md5_cpp.git
+[submodule "base64"]
+	path = base64
+	url = git@github.com:sieveLau/base64_cpp.git
+[submodule "util"]
+	path = util
+	url = git@github.com:sieveLau/cpp_util.git
+[submodule "external/googletest"]
+	path = external/googletest
+	url = https://github.com/google/googletest

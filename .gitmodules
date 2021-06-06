@@ -10,3 +10,6 @@
 [submodule "external/googletest"]
 	path = external/googletest
 	url = https://github.com/google/googletest
+[submodule "aes"]
+	path = aes
+	url = git@github.com:sieveLau/aes_cpp.git
